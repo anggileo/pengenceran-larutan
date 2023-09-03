@@ -1,4 +1,4 @@
-# model-pertumbuhan
-model pertumbuhan untuk prediksi pada pertumbuhan kultur jaringan dengan memakai model eksponensial/logistik.
+# pengenceran-larutan
+untuk mempermudah dalam pengenceran larutan kimia
 !["contoh"](https://github.com/anggileo/pengenceran-larutan/blob/main/Screenshot%20from%202023-09-03%2014-22-49.png)
 
